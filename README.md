@@ -42,6 +42,7 @@ I am a final-year Computer Science student at Ontario Tech University, specializ
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-a74b83188/) 
+
 ## 🌐 Connect with Me
 📧[Email](mailto:mohammad135270@gmail.com)
 
