@@ -53,7 +53,6 @@ I am a final-year Computer Science student at Ontario Tech University, specializ
 - [Database Management System](https://github.com/Mohammad0104/database_management)
 - [Scientific Data Analysis](https://github.com/Mohammad0104/Scientific-data-analysis)
 
----
 
-⭐️ From [Mohammad0104](https://github.com/Mohammad0104)
+
 
