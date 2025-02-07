@@ -17,7 +17,6 @@
 
 I am a final-year Computer Science student at Ontario Tech University, specializing in data science. With a keen analytical mindset and a robust skill set in machine learning and statistical analysis, I am dedicated to turning complex data into actionable insights that drive business success. I am eager to contribute to projects that challenge my skills and push the boundaries of data-driven decision-making.
 
-📧 [Email](mailto:mohammad135270@gmail.com)
 
 ## 🛠 Skills
 
@@ -45,7 +44,7 @@ I am a final-year Computer Science student at Ontario Tech University, specializ
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-a74b83188/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/Mohammad0104)
-
+📧 [Email](mailto:mohammad135270@gmail.com)
 ## 🚀 My Projects
 
 - [Data Visualization in R](https://github.com/Mohammad0104/Info_Visualization)
