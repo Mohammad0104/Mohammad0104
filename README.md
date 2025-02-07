@@ -9,7 +9,7 @@
 [![Visits Badge](https://badges.pufler.dev/visits/Mohammad0104/Mohammad0104)](https://github.com/Mohammad0104)
 [![GitHub stars](https://img.shields.io/github/stars/Mohammad0104?style=social)](https://github.com/Mohammad0104/stargazers)
 
-![Mohammad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohammad0104&show_icons=true&theme=radical)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Mohammad0104&theme=onedark)
 
 </div>
 
