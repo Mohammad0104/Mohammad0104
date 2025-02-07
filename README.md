@@ -1,42 +1,46 @@
-Mohammad Mohammad
-👋 Introduction
+<div align="center">
 
-Welcome to my GitHub! I'm Mohammad, a passionate data analyst and Computer Science student at Ontario Tech University. I specialize in statistical analysis, machine learning, and data management. With a deep fascination for data, I'm focused on uncovering insights that fuel innovation and informed decision-making.
+# Hi, I'm Mohammad 👋
 
+#### I'm a Data Analyst and Computer Science Student!
 
-🎓 Education
+[![GitHub followers](https://img.shields.io/github/followers/Mohammad0104?style=social)](https://github.com/Mohammad0104)
+[![Linkedin Badge](https://img.shields.io/badge/-Mohammad-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohammad-a74b83188/)](https://www.linkedin.com/in/mohammad-a74b83188/)
+[![Visits Badge](https://badges.pufler.dev/visits/Mohammad0104/Mohammad0104)](https://github.com/Mohammad0104)
+[![GitHub stars](https://img.shields.io/github/stars/Mohammad0104?style=social)](https://github.com/Mohammad0104/stargazers)
 
-    Bachelor of Science in Computer Science
-    Ontario Tech University, April 2025
+![Mohammad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohammad0104&show_icons=true&theme=radical)
 
-    IBM Data Science Professional Certificate
-    Coursera, In Progress
+</div>
 
-    Google Data Analytics  Professional Certificate
-    Coursera, In Progress
+## 👨‍💻 About Me
 
-🔧 Skills
+I am currently pursuing my Bachelor's in Computer Science at Ontario Tech University, eagerly diving into the world of data to drive strategic decision-making and innovation.
 
-    Programming Languages: C, C++, Java, Python, Dart, R, Kotlin, Clojure, HTML, JavaScript, CSS
-    Frameworks and Libraries: React.js, Express.js, Flask, Fast API, Material-UI, Bootstrap, Pandas, NumPy
-    Tools & Platforms: Git, Docker, Linux, VS Code, Visual Studio, Android Studio, IntelliJ IDEA, Google Cloud, AWS
-    Databases: PostgreSQL, SQL, MongoDB, MySQL
+## 🛠 Skills
 
-🛠️ Projects
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=Java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 
-    Data Visualization on Global Inflation Trends
-    Utilized R and Python to create advanced visualizations and analyses of economic data from Kaggle.
+## 📊 GitHub Stats
 
-    Wine Quality Prediction Using Machine Learning
-    Developed a neural network model in Python to predict wine quality based on physicochemical properties.
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad0104&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-    Database Management for Movie Information
-    Managed complex datasets and executed SQL queries for efficient data storage and retrieval.
+## 🌐 Socials
 
-👷 Experience
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-a74b83188/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/Mohammad0104)
 
-    Store Associate
-    Loblaws, Pickering, ON, November 2023 – Present
-    Responsible for inventory management, product packaging, and operating automated systems.
+## 🚀 My Projects
 
-Feel free to explore my projects and reach out if you have any questions or opportunities!
+- [Data Visualization in R](https://github.com/Mohammad0104/Info_Visualization)
+- [Machine Learning: Wine Quality Prediction](https://github.com/Mohammad0104/Machine_Learning_Final_Project)
+- [Database Management System](https://github.com/Mohammad0104/database_management)
+
+---
+
+⭐️ From [Mohammad0104](https://github.com/Mohammad0104)
+
