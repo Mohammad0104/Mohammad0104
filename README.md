@@ -41,9 +41,9 @@ I am a final-year Computer Science student at Ontario Tech University, specializ
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad0104&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🌐 Socials
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-a74b83188/) 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-a74b83188/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/Mohammad0104) 📧[Email](mailto:mohammad135270@gmail.com)
+📧[Email](mailto:mohammad135270@gmail.com)
 
 ## 🚀 My Projects
 
