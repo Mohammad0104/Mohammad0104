@@ -3,7 +3,7 @@ Mohammad Mohammad
 
 Welcome to my GitHub! I'm Mohammad, a passionate data analyst and Computer Science student at Ontario Tech University. I specialize in statistical analysis, machine learning, and data management. With a deep fascination for data, I'm focused on uncovering insights that fuel innovation and informed decision-making.
 
-📧 mohammad135270@gmail.com | 🌐 https://www.linkedin.com/in/mohammad-a74b83188/ | 💼 https://github.com/Mohammad0104
+
 🎓 Education
 
     Bachelor of Science in Computer Science
