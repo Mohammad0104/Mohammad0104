@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Mohammad Mohammad 👋
+# Hi, I'm Mohammad 👋
 
 #### Passionate Data Scientist and Computer Science Student!
 
