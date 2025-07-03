@@ -15,8 +15,7 @@
 
 ## 👨‍💻 About Me
 
-I am a final-year Computer Science student at Ontario Tech University, specializing in data science. With a keen analytical mindset and a robust skill set in machine learning and statistical analysis, I am dedicated to turning complex data into actionable insights that drive business success. I am eager to contribute to projects that challenge my skills and push the boundaries of data-driven decision-making.
-
+I am a recent Computer Science graduate from Ontario Tech University, specializing in data science. With a strong analytical mindset and a solid foundation in machine learning and statistical analysis, I am passionate about transforming complex data into actionable insights that drive business success. I am eager to contribute to impactful projects that challenge my skills and advance data-driven decision-making.
 
 ## 🛠 Skills
 
