@@ -47,10 +47,13 @@ I am a recent Computer Science graduate from Ontario Tech University, specializi
 
 ## 🚀 My Projects
 
+- [Power BI Data Professional Survey Dashboard](https://github.com/Mohammad0104/Power_BI-Project-)
+- [Excel Sales Analysis & Dashboard](https://github.com/Mohammad0104/Data_Analysis_Excel)
 - [Data Visualization in R](https://github.com/Mohammad0104/Info_Visualization)
 - [Machine Learning: Wine Quality Prediction](https://github.com/Mohammad0104/Machine_Learning_Final_Project)
-- [Database Management System](https://github.com/Mohammad0104/database_management)
+- [Movie Database Management System](https://github.com/Mohammad0104/database_management)
 - [Scientific Data Analysis](https://github.com/Mohammad0104/Scientific-data-analysis)
+  
 
 
 
