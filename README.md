@@ -2,7 +2,7 @@
 
 # Hi, I'm Mohammad 👋
 
-#### Passionate Data Scientist and Computer Science Student!
+#### Computer Science Student
 
 [![GitHub followers](https://img.shields.io/github/followers/Mohammad0104?style=social)](https://github.com/Mohammad0104)
 [![Linkedin Badge](https://img.shields.io/badge/-Mohammad-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohammad-a74b83188/)](https://www.linkedin.com/in/mohammad-a74b83188/)
@@ -51,6 +51,7 @@ I am a recent Computer Science graduate from Ontario Tech University, specializi
 - [Excel Sales Analysis & Dashboard](https://github.com/Mohammad0104/Data_Analysis_Excel)
 - [Data Visualization in R](https://github.com/Mohammad0104/Info_Visualization)
 - [Machine Learning: Wine Quality Prediction](https://github.com/Mohammad0104/Machine_Learning_Final_Project)
+- [Sales Data Analysis with SQL](https://github.com/Mohammad0104/sales_data_analysis)
 - [Movie Database Management System](https://github.com/Mohammad0104/database_management)
 - [Scientific Data Analysis](https://github.com/Mohammad0104/Scientific-data-analysis)
   
