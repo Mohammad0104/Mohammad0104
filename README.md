@@ -14,6 +14,12 @@
 <h3>🗄️ SQL</h3>
 <ul>
   <li>
+    <a href="https://github.com/Mohammad0104/crime_case">
+      Crime Analytics with SQL
+    </a>
+  </li>
+
+  <li>
     <a href="https://github.com/Mohammad0104/Grocery-Sales-and-Delivery-Performance-Analysis-with-SQL">
       Grocery Sales and Delivery Performance Analysis
     </a>
