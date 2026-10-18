@@ -29,6 +29,12 @@
 <h3>📊 Power BI</h3>
 <ul>
   <li>
+    <a href="https://github.com/Mohammad0104/Financial-Sales-Profitability-Dashboard">
+      Financial Sales & Profitability Dashboard
+    </a>
+  </li>
+
+  <li>
     <a href="https://github.com/Mohammad0104/Retail-Sales-Customer-Insights-Dashboard">
       Retail Sales and Customer Insights Dashboard
     </a>
